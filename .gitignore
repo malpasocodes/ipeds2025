@@ -1,0 +1,31 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# macOS system files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Streamlit
+.streamlit/
+
+# Data files (if you don't want to track them)
+*.csv
+*.parquet
+
+# Jupyter Notebook
+.ipynb_checkpoints
