@@ -25,7 +25,7 @@ __pycache__/
 
 # Data files (if you don't want to track them)
 *.csv
-*.parquet
+# *.parquet
 
 # Jupyter Notebook
 .ipynb_checkpoints
